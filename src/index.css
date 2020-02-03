@@ -6,6 +6,10 @@ p{
 html, body{
   background: #EAECEE;
 }
+
+.card{
+  margin-top: 10%;
+}
 /* Zooms */
 .zoom{
 transition: transform .6s; /* Animation */
